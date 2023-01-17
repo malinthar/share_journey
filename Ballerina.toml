@@ -1,0 +1,8 @@
+[package]
+org = "malintha"
+name = "travelbook_share"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
+cloud="docker"

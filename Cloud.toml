@@ -1,0 +1,7 @@
+[container.image]
+repository="malintha1996"
+name="travelbook_share"
+tag="v0.1.0"
+
+[settings]
+buildImage=true 
